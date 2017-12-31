@@ -1,0 +1,10 @@
+advio	      environ	 ipc1		       printer	  stdio
+awk.c	      exercises  ipc2		       proc	  systype.sh
+branches      figlinks	 lib		       pty	  termios
+config	      filedir	 Make.defines.freebsd  README	  test.c
+daemons       fileio	 Make.defines.linux    README.md  testpool
+datafiles     HEAD	 Make.defines.macos    refs	  threadctl
+db	      hooks	 Make.defines.solaris  relation   threads
+deleteme.txt  include	 Makefile	       signals
+description   info	 Make.libapue.inc      sockets
+DISCLAIMER    intro	 objects	       standards
